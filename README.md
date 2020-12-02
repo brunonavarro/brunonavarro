@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Bruno Navarro], a Junior Developer 🚀 from Peru, I have experience in the design and building of Android applications.
 
-<img  src="https://scontent.fpiu2-1.fna.fbcdn.net/v/t1.0-9/69019733_368923167381769_877995442489524224_o.jpg?_nc_cat=107&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeEQWfcUKVGw-750-CAaxG0peC4NRfiXuHp4Lg1F-Je4eoMDJCzEoXwBTZVYmX_qwETtGw2JzymOhdbX3sI5mlJV&_nc_ohc=D4xcEZW9ej4AX9CJWWu&_nc_ht=scontent.fpiu2-1.fna&oh=93a22bf66b4fa3bb5f5a115962fbf4c3&oe=5FEFA2A2" />
+<img  src="https://github.com/brunonavarro/brunonavarro/blob/main/android_gif.gif" />
   
 
 
