@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **brunonavarro/brunonavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```{r table} knitr::kable(mtcars[1:5,, 1:5], caption = "A table caption") ```
+
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
