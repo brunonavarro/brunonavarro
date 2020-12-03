@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```{r table} knitr::kable(mtcars[1:5,, 1:5], caption = "A table caption") ```
+{r table} knitr::kable(mtcars[1:5,, 1:5], caption = "A table caption")
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
