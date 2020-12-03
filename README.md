@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-{r table} knitr::kable(mtcars[1:5,, 1:5], caption = "A table caption")
-
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -29,12 +27,11 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
 
+<img  src="https://github.com/brunonavarro/brunonavarro/blob/main/android_gif.gif" align="right" width="140px" height="140px"/>
+
 <br />
 
 Hi, I'm [Bruno Navarro], a Junior Developer 🚀 from Peru, I have experience in the design and building of Android applications.
-
-<img  src="https://github.com/brunonavarro/brunonavarro/blob/main/android_gif.gif" />
-  
 
 
 ### Donde me puedes encontrar
