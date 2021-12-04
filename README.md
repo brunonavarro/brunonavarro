@@ -39,4 +39,4 @@ Hi, I'm [Bruno Navarro], a Junior Developer 🚀 from Peru, I have experience in
 _Personal_
 * :star::blush: A veces hago cursos en Udemy **[Cursos](https://www.udemy.com/user/bruno-navarro-8/)**
 * :star::blush: Aplicaciones Android en PlayStore **[Portfolio](https://play.google.com/store/apps/developer?id=Bruno+Navarro)**
-* :star::blush: Red social de amistad **[Facebook](https://facebook.com/bruno.dnn)**
+* :star::blush: Red social de amistad **[Facebook](https://www.facebook.com/BNavarroN)**
