@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Bruno Navarro], a Junior Developer 🚀 from Peru, I have experience in the design and building of Android applications.
+Hi, I'm [Bruno Navarro], a Senior Developer 🚀 from Peru, I have experience in the design and building of Android applications.
 
 
 ### Donde me puedes encontrar
